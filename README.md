@@ -1,5 +1,4 @@
-Structure
-
+```bash
 ├── .idea/
 │   ├── inspectionProfiles/
 │   │   ├── profiles_settings.xml
@@ -34,3 +33,4 @@ Structure
     ├── corn_futures.csv
     ├── ppi_feed.csv
     └── ppi_wheat.csv
+```
