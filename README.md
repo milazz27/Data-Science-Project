@@ -8,6 +8,9 @@
 │   ├── misc.xml
 │   ├── modules.xml
 │   └── vcs.xml
+├── Aggregated_Data/
+│   ├── all_avg_beef_prices.csv
+│   └── all_avg_competing_product_prices.csv
 ├── Beef_Prices/
 │   ├── avg_price_all_uncooked_ground.csv
 │   ├── avg_price_beef_roast.csv
@@ -28,9 +31,14 @@
 │   ├── cpi_us.csv
 │   ├── disturbances.csv
 │   ├── feeder_cattle_futures.csv
-│   └── live_cattle_futures.csv
-└── Feed_Prices/
-    ├── corn_futures.csv
-    ├── ppi_feed.csv
-    └── ppi_wheat.csv
+│   ├── live_cattle_futures.csv
+│   └── ulsd_futures.csv
+├── Feed_Prices/
+│   ├── corn_futures.csv
+│   ├── ppi_feed.csv
+│   └── ppi_wheat.csv
+├── Graphics/
+│   └── Avg_beef_prices_over_time.png
+└── README.md
+
 ```
