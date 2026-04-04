@@ -9,8 +9,12 @@
 │   ├── modules.xml
 │   └── vcs.xml
 ├── Aggregated_Data/
-│   ├── all_avg_beef_prices.csv
-│   └── all_avg_competing_product_prices.csv
+│   ├── all_avg_competing_product_prices.csv
+│   ├── all_data.csv
+│   ├── beef_summary_statistics.csv
+│   ├── competing_summary_statistics.csv
+│   ├── cpi_us_summary_statistics.csv
+│   └── feed_summary_statistics.xlsx
 ├── Beef_Prices/
 │   ├── avg_price_all_uncooked_ground.csv
 │   ├── avg_price_beef_roast.csv
@@ -28,19 +32,23 @@
 │   ├── avg_ham_prices.csv
 │   └── avg_pork_prices.csv
 ├── Economic_Data/
+│   ├── cpi_monthly_us.csv
 │   ├── cpi_us.csv
 │   ├── disturbances.csv
 │   ├── feeder_cattle_futures.csv
 │   ├── live_cattle_futures.csv
-│   └── ulsd_futures.csv
+│   ├── ulsd_futures.csv
+│   └── wpi_monthly_us.csv
 ├── Feed_Prices/
 │   ├── corn_futures.csv
 │   ├── ppi_feed.csv
 │   └── ppi_wheat.csv
 ├── Graphics/
-│   └── Avg_beef_prices_over_time.png
+│   ├── Avg_beef_prices_over_time.png
+│   ├── competing_product_prices_over_time.png
+│   ├── feed_prices_over_time.png
+│   └── us_cpi_over_time.png
 └── README.md
-
 ```
 
 tree generated with ==> [https://githubtree.mgks.dev/?sort=folder-az&style=classic]
