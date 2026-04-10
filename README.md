@@ -13,8 +13,12 @@
 │   ├── all_data.csv
 │   ├── beef_summary_statistics.csv
 │   ├── competing_summary_statistics.csv
+│   ├── corn_futures_summary_statistics.xlsx
 │   ├── cpi_us_summary_statistics.csv
-│   └── feed_summary_statistics.xlsx
+│   ├── feed_summary_statistics.xlsx
+│   ├── feeder_cattle_futures_summary_statistics.xlsx
+│   ├── ulsd_futures_summary_statistics.xlsx
+│   └── us_wpi_summary_statistics.xlsx
 ├── Beef_Prices/
 │   ├── avg_price_all_uncooked_ground.csv
 │   ├── avg_price_beef_roast.csv
@@ -32,6 +36,7 @@
 │   ├── avg_ham_prices.csv
 │   └── avg_pork_prices.csv
 ├── Economic_Data/
+│   ├── cpi_level_2005_100.csv
 │   ├── cpi_monthly_us.csv
 │   ├── cpi_us.csv
 │   ├── disturbances.csv
@@ -45,9 +50,16 @@
 │   └── ppi_wheat.csv
 ├── Graphics/
 │   ├── Avg_beef_prices_over_time.png
+│   ├── beef_price_distributions.png
+│   ├── beef_prices_by_cut.png
+│   ├── beef_prices_volatility.png
 │   ├── competing_product_prices_over_time.png
+│   ├── competing_product_prices_volatility.png
+│   ├── dataset_density.png
 │   ├── feed_prices_over_time.png
 │   └── us_cpi_over_time.png
+├── Phase 1 Presentation.pdf
+├── Project_Phase_A_Cleaning.ipynb
 └── README.md
 ```
 
